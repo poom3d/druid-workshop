@@ -1,0 +1,3 @@
+{"product_id": 1, "price": 100, "user": {"user_id": 1, "user_name": "user1"}, "dt": 1671506358}
+{"product_id": 2, "price": 200, "user": {"user_id": 2, "user_name": "user2"}, "dt": 1671506458}
+{"product_id": 1, "price": 100, "user": {"user_id": 3, "user_name": "user3"}, "dt": 1671506558}
